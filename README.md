@@ -48,4 +48,4 @@ The structure is defined in [`schema.sql`](schema.sql), and includes:
 
 Feel free to reach out if you'd like to collaborate or provide feedback.
 
-- LinkedIn: [YourLinkedInProfile]([https://www.linkedin.com/in/vanett-lamptey])
+- LinkedIn: [https://www.linkedin.com/in/vanett-lamptey]
