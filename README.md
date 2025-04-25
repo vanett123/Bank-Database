@@ -15,7 +15,7 @@ This project contains a relational database schema for a fictitious local bank. 
 
 ## 🧩 Entity Relationship Diagram (ERD)
 
-![ERD](ERD.png)
+![ERD]([https://drive.google.com/file/d/1NfRwb87KsBXVK2KeZYHFY0_oBlV184AR/view?usp=sharing])
 
 ---
 
@@ -48,4 +48,4 @@ The structure is defined in [`schema.sql`](schema.sql), and includes:
 
 Feel free to reach out if you'd like to collaborate or provide feedback.
 
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [YourLinkedInProfile]([https://www.linkedin.com/in/vanett-lamptey])
